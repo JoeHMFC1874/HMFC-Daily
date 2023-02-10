@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+
+ 
+
+<html>
+
+ 
+
+ <head>
+
+ 
+
+ <title>HMFC Daily</title>
+
+ 
+
+</head>
+
+ 
+
+ 
+
+ 
+
+<body>
+
+ 
+
+<h1>HMFC Daily</h1> 
+
+ 
+
+<p> Current squad list
+Goalkeepers
+1 Craig Gordon (INJURED)
+13 Ross Stewart
+28 Zander Clark
+Defenders
+2 Michael Smith 
+3 Stephen Kingsley
+4 Craig Halkett (INJURED)
+12 Nathaniel Atkinson
+15 Kye Rowles
+19 Alex Cochrane
+20 Lewis Neilson
+21 Toby Sibbick
+72 James Hill (loan from AFC Bournemouth
+Midfielders
+5 Peter Haring (INJURED)
+6 Beni Baningime (INJURED)
+7 Jorge Grant
+8 Kio 
+14 Cameron Devlin
+16 Andy Halliday 
+39 Finlay Pollock
+77 Robert Snodgrass
+Forwards
+9 Lawrence Shankland
+10 Liam Boyce (INJURED) 
+11 Gary Mackay-Steven (INJURED) 
+17 Alan Forrest 
+18 Barrie Mckay 
+29 Stephen Humphrys (loan from Wigan)
+30 Josh Ginnelly
+61 Garang Kuol (loan from Newcastle United) 
+88 Yutaro Oda </p>
+ 
+
+<a href= </a>
+  
+ <img src="">
+
+ 
+
+</body>
+
+ 
+
+</html>
